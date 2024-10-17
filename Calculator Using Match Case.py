@@ -2,13 +2,13 @@ a= int(input("Enter first number:- "))
 b= int(input("Enter Second number:- "))
 c= input("Enter the Operation to be performed:- ")
 match c:
-    case "Add":
+    case "Addition":
         print(a+b)
-    case "Sub":
+    case "Subtraction":
         print(a-b)
-    case "Multiply":
+    case "Multiplication":
         print(a*b)
-    case "Divide":
+    case "Division":
         print(a/b)
     case _:
         print("No Valid Operation Provided.")
