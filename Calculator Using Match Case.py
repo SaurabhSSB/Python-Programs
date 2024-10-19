@@ -1,8 +1,8 @@
 a= int(input("Enter first number:- "))
 b= int(input("Enter Second number:- "))
 c= input("Enter the Operation to be performed:- ")
-match c:
 
+match c:
     case "Addition":
         print(a+b)
     case "Subtraction":
