@@ -1,5 +1,9 @@
 a= input(" Enter the String:- ")
 
+
+
+
+
 b=len(a)
 
 for i in range(0,b):
