@@ -11,7 +11,7 @@ def calculate_area(a: float, b: float) -> float:
     Args:
         a (float): Base of Triangle 
         b (float): Height of Triangle
-    
+            
     Returns:
         float: Calculated area of Triangle
     """
