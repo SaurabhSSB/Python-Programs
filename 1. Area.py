@@ -25,7 +25,7 @@ try:
     # Enter the Base of triangle
     b: float = int(input("Enter the base of triangle:- "))
     
-    # Calculate area using the provided function
+    # Calculate area using the calculate_area function
     c: float = calculate_area(a, b)
     
     # Print the calculated area
